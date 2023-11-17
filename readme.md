@@ -110,6 +110,8 @@ References:
 
 5. Crosby, M., Pattanayak, P., Verma, S., & Kalyanaraman, V. (2016). Blockchain technology: beyond bitcoin. Applied Innovation, 2(6-10), 71-81. [Read Here](https://www.sciencedirect.com/science/article/pii/S2212827116300902)
 
+6. Smart Contracts [Google Slides](https://docs.google.com/presentation/d/1C8Ku5wotwSMOlf2eAiWGxUvR9Zk0rvf0EfAKnIFzLPY/edit?usp=sharing)
+
 ---
 
 **Hossein Hamzehzadeh**  
